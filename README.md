@@ -1,4 +1,3 @@
-```markdown
 # Task Management System
 
 Welcome to the Task Management System, a web application designed to manage and track tasks efficiently. This project is built using the React-Laravel stack.
