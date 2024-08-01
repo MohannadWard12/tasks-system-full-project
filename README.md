@@ -1,5 +1,3 @@
-Sure, here’s a structured README file for your repository:
-
 ```markdown
 # Task Management System
 
