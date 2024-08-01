@@ -9,9 +9,6 @@ Welcome to the Task Management System, a web application designed to manage and 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -107,27 +104,3 @@ tasks-system-full-project/
     │   ├── pages/          # React pages
     │   └── ...             # Other source files
 ```
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to:
-
-Mohannad Ward  
-- [GitHub](https://github.com/MohannadWard12)
-- [Email](mailto:your-email@example.com)
-```
-
-Feel free to modify the contact section with your actual email address or any other means of communication you prefer.
